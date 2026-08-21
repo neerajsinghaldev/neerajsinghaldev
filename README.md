@@ -1,19 +1,133 @@
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
-<h3 align="center">A professional embedded software engineer from India</h3>
+<h3 align="center">Embedded Software Engineer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhaln93&label=Profile%20views&color=0e75b6&style=flat" alt="singhaln93" /> </p>
-
-<h3 align="left">✏️ Latest Blog Posts</h3>
-<p align="left">
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neerajsinghalme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neerajsinghalme/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12484757/neeraj-singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12484757/neeraj-singhal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/neerajsinghal93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/neerajsinghal93" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neerajsinghaldev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/neerajsinghaldev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/neerajsinghaldev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/12484757/neeraj-singhal" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.hackerrank.com/neerajsinghaldev" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhaln93&show_icons=true&locale=en" alt="singhaln93" /></p>
+---
+
+## 🧑‍💻 About Me
+
+- 🔧 I build firmware and embedded systems — from bare-metal drivers to Linux-based devices
+- 🧪 I care about testable, maintainable embedded code: CI pipelines, unit tests, and automation for hardware
+- 🌱 Currently exploring **Rust for embedded** and **Zephyr RTOS**
+- 💬 Ask me about C/C++, RTOS, Embedded Linux, and hardware-in-the-loop testing
+- ⚡ Fun fact: I debug with an oscilloscope as often as with `gdb`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
+
+### Embedded & Hardware
+<p>
+  <img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00A86B?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/Zephyr-7929D2?style=flat-square&logo=zephyrproject&logoColor=white" alt="Zephyr" />
+  <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Embedded Linux" />
+  <img src="https://img.shields.io/badge/Yocto-000000?style=flat-square&logo=yoctoproject&logoColor=white" alt="Yocto" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />
+</p>
+
+### Protocols & Interfaces
+<p>
+  <img src="https://img.shields.io/badge/UART-555555?style=flat-square" alt="UART" />
+  <img src="https://img.shields.io/badge/SPI-555555?style=flat-square" alt="SPI" />
+  <img src="https://img.shields.io/badge/I²C-555555?style=flat-square" alt="I2C" />
+  <img src="https://img.shields.io/badge/CAN-555555?style=flat-square" alt="CAN" />
+  <img src="https://img.shields.io/badge/Modbus-555555?style=flat-square" alt="Modbus" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE" />
+</p>
+
+### Tools, Build & CI
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white" alt="Vagrant" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GDB_/_OpenOCD-333333?style=flat-square" alt="GDB / OpenOCD" />
+</p>
+
+### Testing & Quality
+<p>
+  <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square&logo=google&logoColor=white" alt="GoogleTest" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black" alt="Cypress" />
+  <img src="https://img.shields.io/badge/HIL_Testing-8A2BE2?style=flat-square" alt="HIL Testing" />
+</p>
+
+### Web & Data (when the firmware needs a backend)
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+---
+
+## ✏️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> Auto-updated daily by [`blog-post-workflow`](.github/workflows/blog-post-workflow.yml) — set your RSS feed URL in that file.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neerajsinghaldev&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsinghaldev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsinghaldev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neerajsinghaldev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="https://github.com/neerajsinghaldev">GitHub</a> •
+  <a href="https://linkedin.com/in/neerajsinghaldev/">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/12484757/neeraj-singhal">Stack Overflow</a> •
+  <a href="https://www.hackerrank.com/neerajsinghaldev">HackerRank</a>
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ a repo if something here helped you.</i></p>
