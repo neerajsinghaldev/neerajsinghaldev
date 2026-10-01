@@ -95,15 +95,6 @@
 
 ---
 
-## ✏️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> Auto-updated daily by [`blog-post-workflow`](.github/workflows/blog-post-workflow.yml) — set your RSS feed URL in that file.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -112,11 +103,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsinghaldev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neerajsinghaldev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com/?user=neerajsinghaldev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
